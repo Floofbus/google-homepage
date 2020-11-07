@@ -9,3 +9,27 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+#topbar {
+
+}
+
+#link-container {
+
+}
+
+#app-container {
+
+}
+
+#logo {
+
+}
+
+#search {
+
+}
+
+footer {
+    justify-self: flex-end;
+}
